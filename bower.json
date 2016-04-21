@@ -1,0 +1,27 @@
+{
+  "name": "latouche",
+  "authors": [
+    "Neville Nji <neiltuma@gmail.com>"
+  ],
+  "description": "La Touche Decor Website",
+  "main": "index.html",
+  "keywords": [
+    "party decorations",
+    "wedding decoarations",
+    "'Decorations of any kind",
+    "'party equipment rentals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
